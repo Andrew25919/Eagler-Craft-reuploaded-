@@ -1,5 +1,5 @@
-This is a reupload of eagler craft. (Not the original maker)
+This is a reupload of eagler craft. (Original maker's page got taken down)
 
 
-To download right click the following link and press "save as"
-[Right Click Here](https://raw.githubusercontent.com/Andrew25919/slkzhfslkx/main/Offline_Download_Version.html)
+To download click the following link and press Ctrl + S then press save
+[Click Here](https://raw.githubusercontent.com/Andrew25919/slkzhfslkx/main/Offline_Download_Version.html)
